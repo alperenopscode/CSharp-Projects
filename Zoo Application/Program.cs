@@ -33,6 +33,9 @@ namespace Zoo_Application
                         Console.WriteLine("Please click ENTER button");
                         control = false;
                         break;
+                    default:
+                        Console.WriteLine("WARNING: Please use selection numbers");
+                        break;
                 }
             }
 
