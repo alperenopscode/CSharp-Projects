@@ -30,7 +30,7 @@ namespace Zoo_Application
                         MainAnimalSound();
                         break;
                     case "5":
-                        Console.WriteLine("Please click ENTER button");
+                        Console.WriteLine("\nPlease click ENTER button");
                         control = false;
                         break;
                     default:
