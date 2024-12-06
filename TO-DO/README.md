@@ -11,6 +11,8 @@ The To-Do List Application is a simple console-based application built with C#. 
 - Delete a specific task by selecting its number.
 - Exit the application.
 
+---
+
 ### Türkçe:
 To-Do List Uygulaması, C# ile yapılmış basit bir konsol tabanlı uygulamadır. Kullanıcılar, bu uygulama ile yapılacaklar listesine görev ekleyebilir, mevcut görevleri görüntüleyebilir ve belirli görevleri silebilir. Uygulama, görevleri depolamak için bir liste kullanır ve kullanıcılar menü tabanlı bir arayüz ile uygulama ile etkileşimde bulunabilirler. Bu uygulama, kullanıcıların günlük görevlerini hızlı ve basit bir şekilde yönetmelerine yardımcı olmak için tasarlanmıştır.
 
