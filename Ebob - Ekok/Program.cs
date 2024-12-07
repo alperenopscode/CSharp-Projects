@@ -25,6 +25,9 @@ namespace Ebob___Ekok
                         control = false;
                         Console.WriteLine("\nExiting...");
                         break;
+                    default:
+                        Console.WriteLine("\nInvalid choice, please try again.");
+                        break;
                 }
             }
         }
