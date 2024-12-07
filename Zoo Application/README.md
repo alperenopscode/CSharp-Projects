@@ -11,6 +11,8 @@ The Zoo Application is a simple C# console application that allows users to mana
 - Delete an animal from the zoo.
 - Hear the sound of different animals.
 
+---
+
 ### Türkçe:
 Zoo Application, kullanıcıların bir hayvanat bahçesindeki hayvanları yönetebileceği basit bir C# konsol uygulamasıdır. Kullanıcılar, hayvan ekleme, hayvanları görüntüleme, hayvanları silme ve farklı hayvanların seslerini dinleme işlemleri yapabilir. Uygulama, nesne tabanlı bir yaklaşım kullanılarak geliştirilmiştir ve farklı hayvan sınıfları (`Dog`, `Bird`, `Monkey`) oluşturulmuş ve `AnimalLibrary` aracılığıyla yönetilmektedir. Kullanıcılar, metin tabanlı bir menü ile hayvanat bahçesiyle etkileşimde bulunabilirler.
 
