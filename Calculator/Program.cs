@@ -41,7 +41,7 @@ namespace Calculator
 
             Console.ReadLine();
         }
-        private static void Process(double num1, string process, double num2)
+        private static void Process(double num1, string process, double num2) //Process Method
         {
             if (!string.IsNullOrEmpty(process))
             {
