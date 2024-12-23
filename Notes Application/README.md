@@ -1,4 +1,4 @@
-# Notes Management Application
+# Notes Application
 
 ## Description (Açıklama)
 
