@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace HorseRacing
@@ -76,6 +77,7 @@ namespace HorseRacing
                     horseScore[i] += randomPoints;
                     Console.WriteLine($"{horses[i]} gained {randomPoints} points (Total: {horseScore[i]})");
                 }
+                Thread.Sleep(1500);
             }
 
             Console.WriteLine("\n*** FINAL SCORES ***");
