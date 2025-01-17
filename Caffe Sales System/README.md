@@ -17,4 +17,11 @@ The **Caffe Sales System** is a console-based C# application that simulates a co
 
 ### Türkçe:
 
-**Caffe Sales System**, bir kahve satış sistemi simüle eden basit bir C# konsol uygulamasıdır. Kullanıcılar, sıcak ya da soğuk kahve seçeneklerinden birini seçebilir, menü
+**Caffe Sales System**, bir kahve satış sistemi simüle eden basit bir C# konsol uygulamasıdır. Kullanıcılar, sıcak ya da soğuk kahve seçeneklerinden birini seçebilir, menüden bir kahve tercihi yapabilir ve boyut (Küçük, Orta, Büyük) belirleyebilirler. Uygulama, seçilen kahve ve boyut üzerinden fiyat hesaplaması yapar ve satışı bir dosyaya kaydeder. Kullanıcı girişlerini doğrular ve geçerli seçimler yapılmasını sağlar. Sistem, kullanıcı çıkış yapmayı seçene kadar çalışmaya devam eder.
+
+#### Özellikler:
+- Hem sıcak hem de soğuk kahve seçenekleri sunar.
+- Her kahve türü için Küçük, Orta veya Büyük boyutları seçme imkânı sağlar.
+- Kullanıcı girişini doğrular ve geçersiz kahve seçimi veya boyut tercihlerinin yapılmasını engeller.
+- Satış bilgilerini (müşteri adı, kahve türü, boyut ve fiyat) bir dosyaya kaydeder.
+- Geçersiz seçimler için açık hata mesajları gösterir.
